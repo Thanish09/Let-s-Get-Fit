@@ -1,0 +1,5 @@
+﻿  LetGetFit.cpp
+C:\Users\ASUS\Desktop\P1\LetGetFit\LetGetFit.cpp(26,52): warning C4101: 'com': unreferenced local variable
+C:\Users\ASUS\Desktop\P1\LetGetFit\LetGetFit.cpp(2330,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\P1\LetGetFit\LetGetFit.cpp(2337,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  LetGetFit.vcxproj -> C:\Users\ASUS\Desktop\P1\LetGetFit\Debug\LetGetFit.exe
